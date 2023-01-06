@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tekri96
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently working on data sciene projects
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me 
 
